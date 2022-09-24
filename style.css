@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+p{
+    text-align: justify;
+    background-image: url('https://img.freepik.com/free-photo/young-sexy-romantic-couple-love-happy-summer-beach-together-having-fun-wearing-swim-suits-showing-heart-sign-sundet_285396-6545.jpg?w=2000');
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  font-size: .5vw;
+  line-height: 0.5;
+  background-attachment: fixed;
+  font-family: 'Poppins';
+}
+body {
+    margin: 50px;
+    overflow: hidden;
+    background-color: rgb(12, 11, 11);
+}
+.container{
+  border-radius: 50px;
+  border: 2px solid white;
+  overflow: hidden;
+  min-height: 500px;
+  min-width: 500px;
+}
